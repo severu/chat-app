@@ -5,6 +5,8 @@ Tech stacks used:
 - [ ] Socket io
 - [ ] Node JS
 - [ ] Axios
+
+
 I recommend using VS code for this project
 
 - [ ] Go to project's directory
