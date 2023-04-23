@@ -1,5 +1,10 @@
 # chat-app
 A basic chat app that uses socket io to do real-time updates.
+Tech stacks used: 
+- [ ] React JS
+- [ ] Socket io
+- [ ] Node JS
+- [ ] Axios
 I recommend using VS code for this project
 
 - [ ] Go to project's directory
