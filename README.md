@@ -15,6 +15,7 @@ I recommend using VS code for this project
 - [ ] Open new terminal in VS code
 - [ ] Change directory to client folder
 - [ ] Input command: "npm start" to start the client at port 3000
+
         - [ ] The browser should open it automatically
 - [ ] Open another terminal
 - [ ] Change directory to server folder
